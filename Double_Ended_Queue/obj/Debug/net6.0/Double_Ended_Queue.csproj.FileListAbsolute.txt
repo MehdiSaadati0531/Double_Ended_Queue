@@ -1,0 +1,14 @@
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\bin\Debug\net6.0\Double_Ended_Queue.exe
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\bin\Debug\net6.0\Double_Ended_Queue.deps.json
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\bin\Debug\net6.0\Double_Ended_Queue.runtimeconfig.json
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\bin\Debug\net6.0\Double_Ended_Queue.dll
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\bin\Debug\net6.0\ref\Double_Ended_Queue.dll
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\bin\Debug\net6.0\Double_Ended_Queue.pdb
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\obj\Debug\net6.0\Double_Ended_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\obj\Debug\net6.0\Double_Ended_Queue.AssemblyInfoInputs.cache
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\obj\Debug\net6.0\Double_Ended_Queue.AssemblyInfo.cs
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\obj\Debug\net6.0\Double_Ended_Queue.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\obj\Debug\net6.0\Double_Ended_Queue.dll
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\obj\Debug\net6.0\ref\Double_Ended_Queue.dll
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\obj\Debug\net6.0\Double_Ended_Queue.pdb
+C:\Users\Mahdi\source\repos\Double_Ended_Queue\Double_Ended_Queue\obj\Debug\net6.0\Double_Ended_Queue.genruntimeconfig.cache
